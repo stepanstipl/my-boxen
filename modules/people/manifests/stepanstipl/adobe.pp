@@ -1,0 +1,6 @@
+class people::stepanstipl::adobe {
+
+
+
+
+}
