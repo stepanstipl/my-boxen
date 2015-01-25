@@ -3,7 +3,7 @@ class people::stepanstipl::applications {
   require iterm2::stable
   include iterm2::colors::solarized_dark
 
-  include atom
+#  include atom
 
   include adium
   include dropbox
