@@ -16,6 +16,7 @@ class people::stepanstipl::applications {
   include people::stepanstipl::utorrent
   include people::stepanstipl::ffmpeg
   include people::stepanstipl::youtubedl
+  include people::stepanstipl::utils
 
   include appcleaner
   include slate
